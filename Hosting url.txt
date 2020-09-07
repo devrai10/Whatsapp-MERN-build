@@ -1,0 +1,3 @@
+backend: https://git.heroku.com/dev-whatsapp-backend.git
+
+frontend : https://whatsapp-mern-7f5be.web.app
